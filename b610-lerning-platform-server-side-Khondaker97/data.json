@@ -1,0 +1,120 @@
+{
+  "result": [
+    {
+      "id": "javascript",
+      "courses": [
+        {
+          "id": "j1",
+          "topics": "Javascript For Beginners",
+          "duration": "5 Hour",
+          "img": "https://i.ibb.co/v4PkghN/Java-Script.jpg",
+          "description": "This course is for beginners who don't have enough understanding in javascript basically or those who are willing to start learning javacript. This course will cover data types, operators, control structures, built-in functions and exceptions and many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.5"
+        },
+        {
+          "id": "j2",
+          "topics": "Advanced Javascript",
+          "duration": "6 Hour",
+          "img": "https://i.ibb.co/kHcjVnM/js-advanced.png",
+          "description": "This course isn't for beginners but we will cover the topics in a way that those who don't have enough understanding in basics will also get this. This course will cover from beginning to advanced topics like asyncronous programming, regular expression, http request, files read & write and built-in modules many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.4"
+        },
+        {
+          "id": "j3",
+          "topics": "Javascript OOP",
+          "duration": "8 Hour",
+          "img": "https://i.ibb.co/wrdYbcz/OOP-IN-JS.png",
+          "description": "This course isn't for beginners but we will cover the topics in a way that those who don't have enough understanding in basics will also get this. This course will cover from beginning to advanced topics like Inheritance, Polymorphism, Encapsulation, Abstruction and Class object many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.6"
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "courses": [
+        {
+          "id": "p1",
+          "topics": "Python For Beginners",
+          "duration": "5 Hour",
+          "img": "https://i.ibb.co/cxySwK9/Python-Funamentals.png",
+          "description": "This course is for beginners who don't have enough understanding in python basically or those who are willing to start learning python. This course will cover data types, operators, control structures, built-in functions and exceptions and many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.5"
+        },
+        {
+          "id": "p2",
+          "topics": "Advanced Python",
+          "duration": "6 Hour",
+          "img": "https://i.ibb.co/z2DNmRv/Advance-Python-Concepts.png",
+          "description": "This course isn't for beginners but we will cover the topics in a way that those who don't have enough understanding in basics will also get this. This course will cover from beginning to advanced topics like asyncronous programming, regular expression, http request, files read & write and built-in modules many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.4"
+        },
+        {
+          "id": "p3",
+          "topics": "Python OOP",
+          "duration": "8 Hour",
+          "img": "https://i.ibb.co/WcHpDcV/oop-python.jpg",
+          "description": "This course isn't for beginners but we will cover the topics in a way that those who don't have enough understanding in basics will also get this. This course will cover from beginning to advanced topics like Inheritance, Polymorphism, Encapsulation, Abstruction and Class object many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.6"
+        }
+      ]
+    },
+    {
+      "id": "c++",
+      "courses": [
+        {
+          "id": "c1",
+          "topics": "C++ For Beginners",
+          "duration": "5 Hour",
+          "img": "https://i.ibb.co/F4qJF3d/c.png",
+          "description": "This course is for beginners who don't have enough understanding in C++ basically or those who are willing to start learning C++. This course will cover data types, operators, control structures, built-in functions and exceptions and many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.5"
+        },
+        {
+          "id": "c2",
+          "topics": "Advanced C++",
+          "duration": "6 Hour",
+          "img": "https://i.ibb.co/pXGRq6v/c-projects.jpg",
+          "description": "This course isn't for beginners but we will cover the topics in a way that those who don't have enough understanding in basics will also get this. This course will cover from beginning to advanced topics like asyncronous programming, regular expression, http request, files read & write and built-in modules many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.4"
+        },
+        {
+          "id": "c3",
+          "topics": "C++ OOP",
+          "duration": "8 Hour",
+          "img": "https://i.ibb.co/vwKg0k6/OOPs-Concepts-c.jpg",
+          "description": "This course isn't for beginners but we will cover the topics in a way that those who don't have enough understanding in basics will also get this. This course will cover from beginning to advanced topics like Inheritance, Polymorphism, Encapsulation, Abstruction and Class object many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.6"
+        }
+      ]
+    },
+    {
+      "id": "ruby",
+      "courses": [
+        {
+          "id": "r1",
+          "topics": "Ruby For Beginners",
+          "duration": "5 Hour",
+          "img": "https://i.ibb.co/TMKXQhf/ruby-beginner.jpg",
+          "description": "This course is for beginners who don't have enough understanding in Ruby basically or those who are willing to start learning Ruby. This course will cover data types, operators, control structures, built-in functions and exceptions and many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.5"
+        },
+        {
+          "id": "r2",
+          "topics": "Advanced Ruby",
+          "duration": "6 Hour",
+          "img": "https://i.ibb.co/SsVp5Z6/advanced-ruby.jpg",
+          "description": "This course isn't for beginners but we will cover the topics in a way that those who don't have enough understanding in basics will also get this. This course will cover from beginning to advanced topics like asyncronous programming, regular expression, http request, files read & write and built-in modules many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.4"
+        },
+        {
+          "id": "r3",
+          "topics": "Ruby OOP",
+          "duration": "8 Hour",
+          "img": "https://i.ibb.co/Jybphcx/ruby-oop.png",
+          "description": "This course isn't for beginners but we will cover the topics in a way that those who don't have enough understanding in basics will also get this. This course will cover from beginning to advanced topics like Inheritance, Polymorphism, Encapsulation, Abstruction and Class object many more. We will solve problems while learning all of these. Get premium access and enjoy learning.",
+          "rating": "4.6"
+        }
+      ]
+    }
+  ]
+}
